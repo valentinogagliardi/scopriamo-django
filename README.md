@@ -1,0 +1,1 @@
+# scopriamo-django
